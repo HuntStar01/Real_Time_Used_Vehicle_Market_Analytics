@@ -457,6 +457,8 @@ Airflow provides fault tolerance, observability, and reproducibility for the ent
 
 ### Dashboard 1 — Executive Market Overview
 
+<img width="1600" height="1025" alt="DashBoard_1" src="https://github.com/user-attachments/assets/0694a7ba-ad6f-4cdc-8bd5-7479e8e711f2" />
+
 Provides a high-level summary of the used vehicle marketplace.
 
 **Key Metrics:** Total Listings, Avg Price, Median Price, Avg Mileage, Avg Vehicle Age, Total Manufacturers
@@ -471,6 +473,9 @@ Provides a high-level summary of the used vehicle marketplace.
 **Interactivity:** Click any state on the map → all KPIs and charts filter to that state. Click any manufacturer → dashboard updates for that brand.
 
 ### Dashboard 2 — Price Intelligence Dashboard
+
+<img width="1280" height="840" alt="Dashboard_2" src="https://github.com/user-attachments/assets/cc6d0e73-a50d-4709-b647-42f8f8c9033c" />
+
 
 Focuses on pricing behaviour across different market segments and manufacturers.
 
